@@ -1,0 +1,2 @@
+# practicalofgit
+gitcommand
