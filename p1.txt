@@ -1,4 +1,1 @@
-welcome to first practical of git
-we will start the basic of git
-today 
-thank you
+practical 2 of git
